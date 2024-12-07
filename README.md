@@ -3,6 +3,7 @@
  - Our project introduces the novel addition of topological data analysis (TDA) to imrpove the robustness of deep learning models for medical imaging classification 
  - __TopoMed__ is a Multilayer Perceptron (MLP) that is computationally __much__ faster with relatively the same, if not better, accuracy and AUROC than vanilla convolutional neural networks (CNN)
  - Accepted by Machine Learning for Health 2024
+ - The codebase for our other models can be found [here](https://github.com/Kausta/topo-net)
 
 Data
 ---
